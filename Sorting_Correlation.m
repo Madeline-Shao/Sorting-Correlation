@@ -1,3 +1,4 @@
+% @author: Madeline Shao
 clearvars;
 close all;
 % go into folder that holds data 
